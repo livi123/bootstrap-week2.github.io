@@ -1,0 +1,67 @@
+body {
+    background-color: lightgray;
+    height: 1300px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 20px 5px 20px 5px;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: white;
+    margin: 0;
+}
+
+.display-5 {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 30px;
+}
+
+h3 {
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #4aaaa5;
+    border-bottom: 2px solid #4aaaa5;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+.container-body {
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 1050px;
+}
+
+#footer {
+    border-top: 7px solid #4aaaa5;
+    font-size: 15px;
+    background-color: #666666;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+p {
+    background-color: #4aaaa5;
+    position: relative;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.card-image {
+    margin: 0 0px 60px 20px;
+    height: 250px;
+    width: 300px;
+    padding: 0;
+}
